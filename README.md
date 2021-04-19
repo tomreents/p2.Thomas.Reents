@@ -31,11 +31,16 @@ For dashboards 1, 2, and 3, I like the simplicity of their designs. However, I d
 
 **Common Features**
 
-Speedometer\n
+Speedometer
+
 Tachometer 
+
 Fuel indicator 
+
 Cruise control 
+
 Car light control/indicator 
+
 Warning lights 
 
 
