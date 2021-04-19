@@ -45,11 +45,17 @@ Warning lights
 
 Odometer
 
+Turn Signals 
+
 **Less Common Freatures**
 
 Compass
 
 Fuel Economy 
+
+Out of these features, the user interacts with the turn signals, cruise control and the light control. 
+
+
 
 
 
