@@ -30,6 +30,7 @@ For dashboards 1, 2, and 3, I like the simplicity of their designs. However, I d
 # Answers for B
 
 **Common Features
+
 Speedometer 
 Tachometer 
 Fuel indicator 
