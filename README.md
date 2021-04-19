@@ -29,9 +29,9 @@ For dashboards 1, 2, and 3, I like the simplicity of their designs. However, I d
 
 # Answers for B
 
-**Common Features
+**Common Features**
 
-Speedometer 
+Speedometer\n
 Tachometer 
 Fuel indicator 
 Cruise control 
