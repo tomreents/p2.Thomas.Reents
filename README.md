@@ -71,6 +71,13 @@ Display an actual number for the speedometer and tachometer
 
 This design is simple and it focuses on what I believe is the main features of a dashboard particularly the speedometer. As well as giving all the basic functionality you would expect in a car. 
 
+# Answers for A
+
+**Implementation**
+
+![recording](https://user-images.githubusercontent.com/68446643/115172129-2d3f8280-a08a-11eb-9865-182553547806.gif)
+
+
 
 
 
