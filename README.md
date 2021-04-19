@@ -11,7 +11,7 @@ Project #2 URL: https://github.com/tomreents/p2.Thomas.Reents.git
 
 **Dashboard 2
 
-<img src = "https://user-images.githubusercontent.com/68446643/115167457-4beb4c80-a07d-11eb-9015-5ef3ac475b36.png" height = "300">
+<img src = "https://user-images.githubusercontent.com/68446643/115167457-4beb4c80-a07d-11eb-9015-5ef3ac475b36.png" height = "400">
 
 **Dashboard 3
 
