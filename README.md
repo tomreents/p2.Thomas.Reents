@@ -43,5 +43,13 @@ Car light control/indicator
 
 Warning lights 
 
+Odometer
+
+**Less Common Freatures**
+
+Compass
+
+Fuel Economy 
+
 
 
