@@ -67,6 +67,8 @@ Simple
 
 Display an actual number for the speedometer and tachometer 
 
+<img src = "https://user-images.githubusercontent.com/68446643/115171453-adfd7f00-a088-11eb-8bc6-e348284cdb14.jpg" height = "400">
+
 
 
 
