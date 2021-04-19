@@ -69,6 +69,10 @@ Display an actual number for the speedometer and tachometer
 
 <img src = "https://user-images.githubusercontent.com/68446643/115171453-adfd7f00-a088-11eb-8bc6-e348284cdb14.jpg" height = "400">
 
+This design is simple and it focuses on what I believe is the main features of a dashboard particularly the speedometer. As well as giving all the basic functionality you would expect in a car. 
+
+
+
 
 
 
