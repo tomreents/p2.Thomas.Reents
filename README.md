@@ -25,3 +25,5 @@ Project #2 URL: https://github.com/tomreents/p2.Thomas.Reents.git
 
 <img src = "https://user-images.githubusercontent.com/68446643/115168897-214fc280-a082-11eb-86a8-44375e74a8d2.jpg" height = "400">
 
+For dashboards 1, 2, and 3, I like the simplicity of their designs. However, I don't think the RPM guage should be as large as the MPH guage. Most people don't keep a close eye on their RPM's while driving, but they definitely watch their MPH, so I Think the speedometer should be the main focus. 
+
