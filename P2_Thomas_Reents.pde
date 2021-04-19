@@ -23,6 +23,8 @@ PImage arrowL;
 PImage engine;
 PImage oil;
 PImage temp;
+PImage washer;
+PImage battery;
 boolean brightsPressed = false;
 boolean breakPressed = false; 
 boolean gasPressed = false;
@@ -72,6 +74,8 @@ void setup() {
   haz = loadImage("haz.png");
   tire = loadImage("tire-pressure.png");
   airBag = loadImage("airbag-off.png");
+  washer = loadImage("washer.png");
+  battery = loadImage("battery.png");
 }
 
 void draw() {
@@ -94,7 +98,9 @@ void draw() {
   image(oil, 950, 300, 60, 60);
   image(engine, 450, 300, 60, 60);
   image(tire, 120, 200, 50, 50);
+  image(washer, 120, 330, 50, 50);
   image(airBag, 1300, 200, 50, 50);
+  image(battery, 1300, 330, 50, 50);
   
   
   rpm = (mph*5280)/(6.28*60);
