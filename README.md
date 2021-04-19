@@ -7,14 +7,14 @@ Project #2 URL: https://github.com/tomreents/p2.Thomas.Reents.git
 
 **Dashboard 1**
 
-![dash1](https://user-images.githubusercontent.com/68446643/115167441-3e35c700-a07d-11eb-95fc-e45b3167315e.jpg)
+<img src = "https://user-images.githubusercontent.com/68446643/115167441-3e35c700-a07d-11eb-95fc-e45b3167315e.jpg">
 
 **Dashboard 2
 
-![dash3](https://user-images.githubusercontent.com/68446643/115167457-4beb4c80-a07d-11eb-9015-5ef3ac475b36.png)
+<img src = "https://user-images.githubusercontent.com/68446643/115167457-4beb4c80-a07d-11eb-9015-5ef3ac475b36.png" height = "200">
 
 **Dashboard 3
 
-![dash5](https://user-images.githubusercontent.com/68446643/115167465-5279c400-a07d-11eb-888d-0b95d4caa419.jpg)
+<img src = "https://user-images.githubusercontent.com/68446643/115167465-5279c400-a07d-11eb-888d-0b95d4caa419.jpg" >
 
 
